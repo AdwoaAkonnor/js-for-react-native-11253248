@@ -29,3 +29,5 @@ Converts a number to uppercase string if even, and to lowercase string if odd.
 
 Task Three
 This code creates user profiles! It starts with processing numbers (squaring evens, tripling odds) using processArray. Then, it combines original names with the processed numbers using formatArrayStrings. Finally, createUserProfiles takes these formatted strings and the original names to create user objects with original name, a modified uppercase name, and an auto-incremented ID.
+
+ID: 11253248
